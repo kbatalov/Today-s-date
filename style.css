@@ -1,0 +1,30 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 600px;
+    height: 600px;
+    margin: auto;
+ }
+
+body {
+    font-family: sans-serif;
+}
+
+.tablo {
+    margin-top: 200px;
+    width: 600px;
+    height: 50px;
+    padding: auto;
+    text-align: center;
+    font-size: 18px;
+}
+
+.time {
+    width: 600px;
+    padding: 11px;
+    margin-left: 20px;  
+    border-radius: 4px;
+    font-size: 18px;
+}
